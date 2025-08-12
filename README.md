@@ -70,3 +70,32 @@ The final score determines whether your password is:
 - Inclusion of special characters.
 
 - The final score determines if your password is Weak, Moderate, or Strong.
+
+
+ #  Installation & Requirements
+
+ Requiments:
+
+''' Python 3.x'''
+'''tkinter'''
+
+# Installation Steps:
+
+1. Clone the repository:
+
+'''git clone https://github.com/yourusername/Password-Strength-Checker-Python.git
+cd Password-Strength-Checker-Python'''
+
+
+2. Install required packages:
+
+'''pip install -r requirements.txt'''
+
+3. Run the application:
+
+'''python password_checker.py'''
+
+
+
+
+
