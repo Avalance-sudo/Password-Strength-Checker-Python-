@@ -76,26 +76,35 @@ The final score determines whether your password is:
 
  Requiments:
 
-''' Python 3.x'''
-'''tkinter'''
+``` Python 3.x```
+```tkinter```
 
 # Installation Steps:
 
 1. Clone the repository:
 
-'''git clone https://github.com/yourusername/Password-Strength-Checker-Python.git
-cd Password-Strength-Checker-Python'''
+ ```git clone https://github.com/yourusername/Password-Strength-Checker-Python.git```
 
 
 2. Install required packages:
 
-'''pip install -r requirements.txt'''
+``` pip install -r requirements.txt ```
 
 3. Run the application:
 
-'''python password_checker.py'''
+``` python password_checker.py ```
 
 
 
+# Future Improvements
+- Add password generator feature.
 
+- Save history of tested passwords (securely, hashed).
 
+- Allow exporting password suggestions to a file.
+
+- Provide color-coded strength meter in addition to text feedback.
+
+# Conclusion
+Conclusion
+The Password Strength Checker analyzs key factors such as the inclusion uppercase letters, lowercase letters, numbers, and special characters, it helps users understand how vulnerable their passwords may be to brute-force or dictionary attacks. This project reinforces foundational Puthon skils while also bring the importance of ybersecurity awareness in everyday digital habits. As password hygiene remains a critical defense against unauthorized access, tools like this empower users to take proactive steps toward safer online practices.
