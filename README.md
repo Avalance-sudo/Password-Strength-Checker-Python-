@@ -23,11 +23,12 @@ This Python script checks the stregth of a given password based on multiple crit
 -Simple CLI interface.
 
 
-  # GUI & Theme Changes
+ # GUI & Theme Changes
   -The apply_theme(scorce) function changes:
   -Background color
   -Displayed text and style
   -themes are linked to password strength
+  
 
   # User Interaction
   -Enter password in the input field
@@ -56,10 +57,8 @@ The final score determines whether your password is:
 
 -Strong
 
+
 # Example
-
-
-
 
 - Use of uppercase and lowercase letters.
 
