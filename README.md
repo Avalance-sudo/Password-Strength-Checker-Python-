@@ -37,14 +37,37 @@ This Python script checks the stregth of a given password based on multiple crit
 
 
   # How It Works
-The script assigns points based on:
+-The script assigns points based on:
 
-- Length of the password.
+-Length of the password
+
+-Use of uppercase and lowercase letters
+
+-Inclusion of numbers
+
+-Inclusion of special characters
+
+
+The final score determines whether your password is:
+
+-Weak
+
+-Moderate
+
+-Strong
+
+# Example
+
+
+
 
 - Use of uppercase and lowercase letters.
 
 - Inclusion of numbers.
-
+   Output:
+  - Strength: Moderate
+  - Suggestions: "Increase passowrd length for better security."
+  - GUI Theme; Pink
 - Inclusion of special characters.
 
 - The final score determines if your password is Weak, Moderate, or Strong.
